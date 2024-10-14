@@ -1,0 +1,12 @@
+
+
+skalowanie
+
+zdjecie rozmiar
+
+
+
+
+upewnienie się że wszystkie komentarze usuniete
+sesje zamknięcet
+połaączenia do bazy danych zamknięte
